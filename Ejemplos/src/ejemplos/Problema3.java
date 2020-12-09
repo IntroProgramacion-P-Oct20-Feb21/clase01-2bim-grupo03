@@ -11,10 +11,10 @@ package ejemplos;
 public class Problema3 {
     public static void main(String[]args){
 	int intcontador;
-	String cadenaAsterisco=("*"),cadenaAsteriscos2=("*");
+	String cadenaAsterisco = ("*"),cadenaAsteriscos2 = ("*");
 	System.out.println(cadenaAsterisco);
-	for (intcontador=1;(!(intcontador==10)) ; intcontador++) {
-            cadenaAsterisco=cadenaAsterisco+cadenaAsteriscos2;
+	for (intcontador = 1;(!(intcontador == 10)) ; intcontador++) {
+            cadenaAsterisco = cadenaAsterisco + cadenaAsteriscos2;
             System.out.println(cadenaAsterisco);
 	}
     }

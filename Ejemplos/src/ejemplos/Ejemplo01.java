@@ -32,10 +32,10 @@ public class Ejemplo01 {
             
         }
         
-        /*
+        
         for (int i = 65; i <= 90; i++) {
              System.out.printf("%s |%d|\n", (char)i, i);
-        }*/
+        }
         
         
         
